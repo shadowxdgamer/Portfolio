@@ -1,0 +1,53 @@
+/* Responsive Design for Tablets */
+@media (max-width: 1024px) {
+    .projects-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.5rem;
+    }
+}
+
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+
+    .project-card {
+        padding: 1rem;
+        border-radius: 0.75rem;
+    }
+
+    .project-info h3 {
+        font-size: 2rem;
+        margin: 0.75rem 0 0.5rem;
+    }
+
+    .project-info p {
+        margin-bottom: 0.75rem;
+    }
+}
+
+
+/* Additional adjustments for mobile devices */
+@media (max-width: 768px) {
+    .experience-list {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+
+    }
+    .home .home-content{
+        margin-bottom: 90rem;
+    }
+    .cv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-color: black;
+        color: white;
+        text-align: center;
+        margin-top: -10rem;
+    }
+}
