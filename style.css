@@ -398,6 +398,14 @@ span{
 .experience-entry p {
     margin-bottom: 0.5rem;
 }
+.experience-entry ul {
+    margin-bottom: 0.5rem;
+    margin-left: 1.5rem;
+    font-size: 1.6rem;
+}
+.experience-entry li {
+    padding: 0.5rem;
+}
 
 
 .cv {
