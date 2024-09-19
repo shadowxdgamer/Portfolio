@@ -31,7 +31,7 @@ If you find this repository useful, feel free to fork it and give it a star ⭐.
 *The homepage showcasing a quick about me.*
 
 ![📄 Projects Section](screenshots/projects.png)
-*The Projects section highlighting individual work with hover effects.*
+*The Projects section highlighting individual work.*
 
 ## Features
 
