@@ -59,3 +59,6 @@ If you find this repository useful, feel free to fork it and give it a star ⭐.
 
 This project is licensed under the MIT License. 
 
+## ✨ Special Thanks
+
+Special thanks to "[Pro Coder](https://www.youtube.com/@procoder09)" for inspiration!
